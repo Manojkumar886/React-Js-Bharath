@@ -1,0 +1,14 @@
+table{
+    border: 2px double burlywood;
+    line-height: 40px;
+}
+
+tbody{
+    color: cadetblue;
+    text-shadow: 3px 2px 5px orangered;
+}
+
+ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 50px;
+}

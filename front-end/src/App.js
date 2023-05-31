@@ -1,13 +1,11 @@
+import Func1, { Orderlist, Tableexecution } from "./Functions";
+
 function App() {
   return (
     <>
-    <ol>
-      Web development
-      <li>Html</li>
-      <li>Css</li>
-      <li>Bootstrap</li>
-      <li>Java Script</li>
-    </ol>
+    <Func1/>
+    <Orderlist/>
+    <Tableexecution/>
     </>
   );
 }
