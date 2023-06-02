@@ -1,11 +1,13 @@
 import Func1, { Orderlist, Tableexecution } from "./Functions";
+import { Usingobotstrap } from "./usingBootstrap";
 
 function App() {
   return (
     <>
-    <Func1/>
+    <Usingobotstrap/>
+    {/* <Func1/>
     <Orderlist/>
-    <Tableexecution/>
+    <Tableexecution/> */}
     </>
   );
 }
